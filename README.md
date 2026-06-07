@@ -18,7 +18,7 @@ A performance monitoring CLI tool for Ubuntu inspired by asitop for Mac, with ad
 Download the `.deb` package and install:
 
 ```bash
-wget  https://github.com/GigCoder-ai/dgxtop/blob/main/deb_build/dgxtop_1.0.0-1_all.deb
+wget https://github.com/GigCoder-ai/dgxtop/raw/refs/heads/main/deb_build/dgxtop_1.0.0-1_all.deb
 sudo apt install ./dgxtop_1.0.0-1_all.deb
 ```
 
